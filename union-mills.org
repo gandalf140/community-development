@@ -1,0 +1,63 @@
+* Interview notes
+  - after dark, don't interview houses with no front light on
+  - need to expand team of interviewers
+  - having a woman/child be part of the interview team may be helpful
+  - bring handout with contact information
+  - things to say
+    - What gifts, skills, hobbies, interests do you have?
+      - Offer examples of what we the interviewers enjoy doing, are interested
+        in learning, etc
+    - What do you do for a living?
+    - What needs do you have?
+      - TODO Need more examples
+      - examples
+        - babysitting
+        - house repair
+        - dogsitting
+        - car repair
+        - visitors (for older people)
+    - What about others in the household, including children?
+    - What groups or associations are you already involved in?
+    - If you think of anything else, let us know (refer to handout)
+* Neighbors
+** Interview results
+  | Name             | Gifts, Interests, Hobbies                               | Needs       | Contact Info                        | Address               | Groups/Associations | Relationships |
+  |------------------+---------------------------------------------------------+-------------+-------------------------------------+-----------------------+---------------------+---------------|
+  | Shannon Mckeon   | custom cookies/baked goods (on facebook)                |             | shannonmckeon01@gmail.com           |                       |                     |               |
+  | Paul Mckeon      |                                                         |             |                                     |                       |                     |               |
+  | Veronica         | web developer, cooking, gardening                       | babysitting | 571-314-2334                        |                       |                     |               |
+  | Carlos           | biking, walk, video games, 2 year old son               | babysitting | 703-206-8058                        |                       |                     |               |
+  |                  | software manager, computers                             |             |                                     |                       |                     |               |
+  | Ben Williams     | fire engineer, motorcyles, video games                  |             | benjamin.williams@fairfaxcounty.gov |                       |                     |               |
+  | Jim              | farming, hunting, conservation, construction contractor |             | 703-965-4362 jimk4u@gmail.com       |                       |                     |               |
+  | Kim              | fire marshall                                           |             |                                     |                       |                     |               |
+  | Katherine Baeza  | book club, hiking, babysitting                          | babysitting | ktbaeza@hotmail.com                 |                       |                     |               |
+  | Carlos Baeza     | nutrition, soccer, health, physical trainer, owns gym   |             |                                     |                       |                     |               |
+  | Emad             | scientist (infectious diseases), biking                 |             | 443-691-2171 emad_assal@yahoo.com   |                       | Union Mills HOA     |               |
+  |                  | gardening, handyman, barbecuing                         |             |                                     |                       |                     |               |
+  | Emily (daughter) | basketball, puzzles, rubix cube, brain games            |             |                                     |                       |                     |               |
+  |                  | board games, drawing, reading, writing stories          |             |                                     |                       |                     |               |
+  | Derek            | movies, video games, working out, board games           |             | derekwang90@gmail.com               |                       |                     |               |
+  |                  | computer programmer, healthy eating/cooking (learn)     |             |                                     |                       |                     |               |
+  | John             |                                                         |             | tsog323@gmail.com                   | 13534 Canada Goose Ct |                     |               |
+  | Idrees           | sports, video games                                     |             | 703-631-3262                        | 13532 Canada Goose Ct |                     |               |
+  | Noble            | basketball, dogsitting                                  |             | othijattt23@yahoo.com               |                       |                     |               |
+  | Adreesh          | basketball, college student studying operations         |             | adreeshsharma27@gmail.com           |                       |                     |               |
+  |                  | management                                              |             |                                     |                       |                     |               |
+
+** No one home
+  | Address               | Times already visited |
+  |-----------------------+-----------------------|
+  | 13540 Canada Goose Ct | Friday, 5:00 pm       |
+  | 13536 Canada Goose Ct | Friday, 5:00 pm       |
+  | 13542 Canada Goose Ct | Friday, 5:00 pm       |
+  | 13544 Canada Goose Ct | Friday, 5:00 pm       |
+  | 13552 Canada Goose Ct | Friday, 5:30 pm       |
+** Different language
+  | Address               | Language |
+  |-----------------------+----------|
+  | 13548 Canada Goose Ct |          |
+  | 13550 Canada Goose Ct |          |
+
+** Not interested
+   - 13554 Canada Goose Ct
