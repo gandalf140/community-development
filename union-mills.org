@@ -44,6 +44,8 @@
   | Noble            | basketball, dogsitting                                  |             | othijattt23@yahoo.com               |                       |                     |               |
   | Adreesh          | basketball, college student studying operations         |             | adreeshsharma27@gmail.com           |                       |                     |               |
   |                  | management                                              |             |                                     |                       |                     |               |
+  | Michelle                 | 	Single mom. Two kids: 12 and 20 years old. Works from home. She's a Security Engineer. No time for hobbies. But she likes cooking. Originally from Turkey.                                              |             |  571-275-5399                                   | 5664 Gosling Dr                       |                     |               |
+| Michelle's Mom                 | 	is a baby sitter. Currently working in Sterling. She'll be sitting in the Community by May 2018. She has experience with kids of all ages and cultures.  |             |   | 5664 Gosling Dr                       |                     |               |
 
 ** Ideas for the Community
 - Kickball training session / match (Paul and Shannon)
@@ -60,7 +62,7 @@
   | 13542 Canada Goose Ct | Friday, 5:00 pm       |
   | 13544 Canada Goose Ct | Friday, 5:00 pm       |
   | 13552 Canada Goose Ct | Friday, 5:30 pm       |
-  | 5660 Gosling | 11/25/2017 ~4pm       |
+  | 5660 Gosling Dr | 11/25/2017 ~4pm       |
   
 ** Different language
   | Address               | Language |
